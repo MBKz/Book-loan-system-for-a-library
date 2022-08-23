@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556139103 source:c:\users\bakr\desktop\new folder\final project pro ever\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
